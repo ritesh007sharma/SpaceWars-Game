@@ -3,5 +3,8 @@ Instalation Notes:
 Using visual studio:
 
     Clone repository into visual studio
-    Select "Client" project
-    Run the project
+    Select "View" project
+    Run the project 
+    Or
+    Clone the installer to install.
+    
